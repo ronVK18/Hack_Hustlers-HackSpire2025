@@ -1,0 +1,22 @@
+# Core Requirements
+fastapi
+uvicorn
+python-multipart
+pydantic
+pydantic_core
+
+# Machine Learning
+scikit-learn
+lightgbm
+joblib
+pandas
+numpy
+xgboost
+torch
+torch_geometric
+networkx
+matplotlib
+numpy
+# Optional (for production)
+gunicorn
+python-dotenv
